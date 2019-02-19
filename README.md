@@ -12,3 +12,5 @@ Download:
 ```
 go get -u github.com/prongbang/go-testcov
 ```
+
+Blog: [coming]()
