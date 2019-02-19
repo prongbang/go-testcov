@@ -1,0 +1,7 @@
+mode: set
+github.com/prongbang/go-testcov/pm25/data/datasource/datasource.go:18.57,22.2 1 1
+github.com/prongbang/go-testcov/pm25/data/datasource/datasource.go:24.63,31.2 3 1
+github.com/prongbang/go-testcov/pm25/gateway/handler/handler.go:20.55,24.2 1 1
+github.com/prongbang/go-testcov/pm25/gateway/handler/handler.go:26.68,36.2 5 1
+github.com/prongbang/go-testcov/pm25/core/http_request.go:18.54,22.2 1 1
+github.com/prongbang/go-testcov/pm25/core/http_request.go:24.77,28.2 2 1
