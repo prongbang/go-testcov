@@ -13,4 +13,4 @@ Download:
 go get -u github.com/prongbang/go-testcov
 ```
 
-Blog: [coming]()
+Blog: [https://prongbang.github.io/golang/2019/01/15/go-test-coverage.html](https://prongbang.github.io/golang/2019/01/15/go-test-coverage.html)
